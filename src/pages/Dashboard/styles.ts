@@ -21,6 +21,7 @@ export const CardContainer = styled.section`
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 32px;
   margin-top: -150px;
+  
 `;
 
 export const Card = styled.div`
